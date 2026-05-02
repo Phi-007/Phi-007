@@ -18,7 +18,7 @@
 
 I'm an **AI & Computer Vision Engineer** based in Latakia, Syria, specializing in building production-ready deep learning solutions. From real-time object tracking pipelines to private document intelligence systems, I turn complex research into deployable tools.
 
-- 🎓 **CS Student** @ Tishreen University (graduating in progress)
+- 🎓 **CS Student** @ Latakia (Tishreen) University (graduating in progress)
 - 🌍 **Remote-first** — experienced collaborating with MENA/GCC clients across time zones
 - 💡 Mainly passionate about **Computer Vision**, Then **NLP**, and **LLM-powered systems**
 - 🗣️ **English** (C1 Advanced) | **Arabic** (Native)
